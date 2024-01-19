@@ -1,0 +1,20 @@
+.noteContainer {
+    padding: 5px;
+  }
+  
+  .noteContainer h2 {
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-left: 30px;
+  }
+  
+  .noteContainer_notes {
+    height: 96%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 20px;
+    
+  }
+  
